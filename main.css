@@ -1,0 +1,40 @@
+body{
+    font-family: arial,helvetica;
+}
+
+main{
+    display:block;
+    width:450px;
+    padding: 1em;
+    border: 2px solid navy;
+ margin: 0 auto;
+ background: white;
+ }
+ 
+ h1{
+     color:navy;
+     margin-top: 0;
+ }
+ label{
+     width:10em;
+     float: left;
+     padding-right: 1em;
+     padding-bottom: .5em;
+ }
+ #data input{
+     float:left;
+     width: 15em;
+     margin-bottom: 0.5em;
+ }
+ #data span{
+     padding-left: 0.25em;
+     }
+     
+     #buttons input{
+         float: left;
+         margin-bottom: 0.5em;
+     }
+     br{
+         clear: left;
+     }
+ 
